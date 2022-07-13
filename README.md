@@ -3,11 +3,8 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-<a href="hhttps://alfalahmedical.org/">Best Medical College In Haryana</a>
-https://alfalahmedical.org/
-<!---
+https://alfalahmedical.org/-
 gufrankhann1/gufrankhann1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes
-<a href="https://seosandwitch.com/fix-clickable-elements-too-" rel="nofollow">https://seosandwitch.com/fix-clickable-elements-too-</a></p>
 
 --->
